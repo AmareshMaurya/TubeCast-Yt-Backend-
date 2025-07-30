@@ -11,8 +11,5 @@
     "Javascript"
   ],
   "author": "Amaresh Maurya",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.10"
-  }
+  "license": "ISC"
 }
