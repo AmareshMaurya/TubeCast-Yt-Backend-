@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
-    
   },
   "keywords": [
     "Backend",
     "Javascript"
   ],
   "author": "Amaresh Maurya",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
 }
