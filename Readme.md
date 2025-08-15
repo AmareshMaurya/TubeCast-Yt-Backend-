@@ -1,5 +1,1 @@
-Backend Series 
-
-by
-
-Chai_Coadee;
+TubeEngine is a backend application inspired by YouTube, developed using Node.js, Express.js, and MongoDB to manage video content, users, and authentication securely and efficiently. It integrates Cloudinary for cloud-based media storage, supports file uploads with Multer, and uses JWT along with bcrypt for robust authentication and password protection. The project also implements cookie-based session handling, CORS for cross-platform compatibility, and Mongoose Aggregate Paginate for smooth and efficient pagination of large datasets. With environment configuration through dotenv and clean code formatting via Prettier, TubeEngine provides a scalable, secure, and developer-friendly foundation for building modern video streaming platforms.
